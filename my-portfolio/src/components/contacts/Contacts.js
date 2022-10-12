@@ -1,7 +1,9 @@
-import style from './Contacts.module.css';
+import './contacts.css';
 
 function Contacts() {
-    return <div>Contacts</div>
+    return <section id='contacts'>
+        Contacts
+    </section>
 }
 
 

@@ -1,4 +1,4 @@
-import header from './header.css';
+import './header.css';
 import HeaderButtons from './HeaderButtons';
 import HeaderSocials from './HeaderSocials';
 import me from '../../assets/me.jpg'

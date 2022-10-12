@@ -1,8 +1,9 @@
-import style from './About.module.css'
+import   './about.css';
+
 function About() {
-    return <div >
+    return <section id='about'>
        About page
-    </div>
+    </section>
 }
 
 export default About;
