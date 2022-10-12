@@ -1,5 +1,7 @@
-import style from './Header.module.css';
-import Helper from './Helper';
+import header from './header.css';
+import HeaderButtons from './HeaderButtons';
+import HeaderSocials from './HeaderSocials';
+import me from '../../assets/me.jpg'
 
 function Header() {
 
@@ -8,7 +10,16 @@ function Header() {
             <h5>Hello I`m</h5>
             <h1>Blagovest Kolev</h1>
             <h5 className='text-light'>Junior Fullstack Developer</h5>
-            <Helper />
+
+            <HeaderButtons />
+            <HeaderSocials/>
+            
+            <div className='me'>
+                <img src={me} alt='my picture'></img>
+            </div>
+
+            <a href='#contacts' className='scroll__down'>Scroll Down</a>
+            
         </div>
     </header>)
 }
