@@ -63,6 +63,9 @@
     .experience__container { 
         gap: 1rem;
     }
+    #experience {
+        margin-top: 10rem;
+    }
 
     .experience__container > div {
         width: 100%;
