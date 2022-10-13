@@ -13,7 +13,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>HTML</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -21,7 +21,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>CSS</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -29,7 +29,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>JavaScript</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -37,7 +37,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>React</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -45,7 +45,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>Bootstrap</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -53,7 +53,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>Material UI</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -68,7 +68,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>C#</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -76,7 +76,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>Asp.NET</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -84,7 +84,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>EntityFramework Core</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
@@ -92,7 +92,7 @@ function Experience() {
                         <BsPatchCheckFill className='experience__details-icon' />
                         <div>
                             <h4>MS SQL</h4>
-                            <small className='text-light'>Practitioner</small>
+                            <small className='text-light'>Beginner</small>
                         </div>
                     </article>
 
