@@ -3,6 +3,7 @@ import forum from '../../assets/forum.png';
 import automarket from '../../assets/automarket.png';
 import bookshelf from '../../assets/bookshelf.png';
 import quiz from '../../assets/quiz.png';
+import portfolio from '../../assets/portfolio.png';
 
 function Portfolio() {
     return (
@@ -46,6 +47,13 @@ function Portfolio() {
                     <a href='https://github.com/BlagoKolev/Quiz-Books-and-Authors' className='btn' target='_blank'>View on Github</a>
                 </article>
 
+                <article className='portfolio__item'>
+                    <div className='portfolio__item-image'>
+                        <img src={portfolio} alt='quiz project image'></img>
+                    </div>
+                    <h3>My Personal Website</h3>
+                    <a href='https://github.com/BlagoKolev/MyPortfolio' className='btn' target='_blank'>View on Github</a>
+                </article>
 
             </div>
         </section>
