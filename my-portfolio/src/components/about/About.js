@@ -25,7 +25,7 @@ function About() {
                     <article className='about__card'>
                         <AiFillFolderOpen className='about__icon' />
                         <h5>Projects</h5>
-                        <small>My Personal Projects</small>
+                        <small>5 Personal Projects</small>
                     </article>
                 </div>
                 <p>The short story of my life ! The short story of my life ! The short story of my life ! </p>
