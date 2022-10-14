@@ -21,3 +21,8 @@
 - React;
 - React-icons;
 - EmailJS;
+
+## :camera: Screenshots
+
+### Home page
+![portfolio](https://user-images.githubusercontent.com/64737227/195850434-21457b4b-f20c-443e-935e-430cfaed7781.png)
