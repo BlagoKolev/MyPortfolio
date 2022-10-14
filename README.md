@@ -26,3 +26,11 @@
 
 ### Home page
 ![portfolio](https://user-images.githubusercontent.com/64737227/195850434-21457b4b-f20c-443e-935e-430cfaed7781.png)
+### About me
+![aboutme](https://user-images.githubusercontent.com/64737227/195851471-7333a617-6ec3-449c-a8e3-c8dfd8a86a37.png)
+### My Experience
+![experience](https://user-images.githubusercontent.com/64737227/195851505-d413ad1e-8498-4aaa-ab6f-af7af0687e99.png)
+### My Personal Projects
+![projects](https://user-images.githubusercontent.com/64737227/195851521-0c558abe-38f6-4f38-bea0-cdd1567866c8.png)
+### Contact Me
+![contacts](https://user-images.githubusercontent.com/64737227/195851536-7de97acf-aa6d-4f8a-98fa-90acb23aa22f.png)
