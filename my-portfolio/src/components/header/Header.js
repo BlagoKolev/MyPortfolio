@@ -9,7 +9,7 @@ function Header() {
         <div className="container header__container">
             <h5>Hello I`m</h5>
             <h1>Blagovest Kolev</h1>
-            <h5 className='text-light'>Junior Fullstack Developer</h5>
+            <h5 className='text-light'>Junior Full Stack C# .Net Developer</h5>
 
             <HeaderButtons />
             <HeaderSocials/>

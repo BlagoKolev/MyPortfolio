@@ -6,7 +6,7 @@
 
 .about__me {
     width: 80%;
-    height: 68%;
+    /* height:max-content; */
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(45deg,
@@ -85,6 +85,7 @@
     .about__content p {
         margin: 1rem 0 1.5rem;
     }
+
     .about__content {
         display: flex;
         flex-direction: column;
@@ -92,6 +93,7 @@
     }
 
 }
+
 /* =================== Media queries (Small devices) =====================*/
 @media screen and (max-width: 600px) {
     .about__me {
@@ -99,9 +101,9 @@
         margin: 0 auto 3rem;
     }
 
-.about__content {
-    text-align: center;
-}
+    .about__content {
+        text-align: center;
+    }
 
     .about__content p {
         margin: 1.5rem 0;
