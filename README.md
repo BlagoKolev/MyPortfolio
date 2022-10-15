@@ -10,7 +10,7 @@
 
 ### :bulb: Things you can do by browsing my portfolio:
 - You can see my short info; 
-- You can Download and Read my SV;
+- You can Download and Read my CV;
 - You can Visit and Test all my Personal Projects in Github with One Click;
 - You can Send me Email by One Click;
 - You can Message me in FB Messenger with One Click;
